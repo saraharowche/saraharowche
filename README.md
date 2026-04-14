@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Sarah 
 
-- 🔭 Hoje trabalho com front-end, com tratamento de dados utilizando o power bi, suporte em sistemas de TI e brinco com o back-end 
+- 🔭 Hoje trabalho com front-end, com tratamento de dados utilizando o power bi, suporte em sistemas de TI e back-end 
 - 🌱 Estudando Analise e Desenvolvimento de Sitemas
 - 😄 ela/dela
 
